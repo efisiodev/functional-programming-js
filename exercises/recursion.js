@@ -9,7 +9,7 @@ const numbers = [1, 2, 3, 4, 5];
   //   totalAmount = totalAmount + number;
   // }
 
-  // Usando programación funcional
+  // Usando función recursiva
   const recursiveSum = (array) => {
     if (!array.length) {
       return 0;

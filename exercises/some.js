@@ -13,7 +13,7 @@
   // let foundAdultUser = false
   // for (let i = 0; i < users.length && !foundAdultUser; i++) {
   //   const user = users[i];
-  //   if (user.age < 18) {
+  //   if (user.age >= 18) {
   //     foundAdultUser = true
   //   }
   // }

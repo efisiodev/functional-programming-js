@@ -18,5 +18,5 @@ const users = [
 // }
 
 // Usando findIndex
-const user = users.findIndex(item => item.id === '003')
-console.log(user); // Resultado 2
+const indexUserFound = users.findIndex(item => item.id === '003')
+console.log(indexUserFound); // Resultado 2
